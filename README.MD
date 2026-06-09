@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![ML](https://img.shields.io/badge/Machine_Learning-Random_Forest-FF6B6B?style=for-the-badge)](https://scikit-learn.org)
 
-##  Live Demo: 
+##  Live Demo: https://ecommercepurchaseprediction-f4pbf9lncfqbuptmrk3vmn.streamlit.app/
 
 An intelligent AI-powered web application that predicts whether an e-commerce visitor will make a purchase based on their browsing behavior.
 
